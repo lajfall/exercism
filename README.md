@@ -1,13 +1,13 @@
 # exercism
 
-```sh
+```console
 chmod +x gradlew
 ```
 
-```sh
+```console
 ./gradlew test
 ```
 
-```sh
+```console
 exercism submit ./src/main/java/
 ```
